@@ -12,26 +12,20 @@ The values returned by these functions are printed to stdout by locked stub code
 
 Input Format
 
-image
+<img src="https://s3.amazonaws.com/hr-challenge-images/0/1483593098-d7eec46104-JS-input-function-name.png"/>
 
-image
+<img src="https://s3.amazonaws.com/hr-challenge-images/0/1483593124-050e72f8c3-JS-input-function-name-params.png"/>
 
-Constraints
-
- and  are scaled to at most three decimal places.
 Output Format
 
-image
+<img src="https://s3.amazonaws.com/hr-challenge-images/0/1483593468-09d3f126ba-JS-output.png"/>
 
 Sample Input 0
 
 3
 4.5
+
 Sample Output 0
 
 13.5
 15
-Explanation 0
-
-The area of the rectangle is .
-The perimeter of the rectangle is .
