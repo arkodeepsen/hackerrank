@@ -29,12 +29,12 @@ Explanation
 
 Initially, the button looks like this:
 
-initial
+<img src="https://s3.amazonaws.com/hr-challenge-images/17983/1456614015-11045006f4-btn_initial.png" alt="initial"/>
 
 After the first 4 clicks, it looks like this:
 
-four clicks
+<img src="https://s3.amazonaws.com/hr-challenge-images/17983/1456614041-e93e72ebf9-btn_4_clicks.png" alt="four clicks"/>
 
 After 5 more clicks, it looks like this:
 
-nine clicks
+<img src="https://s3.amazonaws.com/hr-challenge-images/17983/1456614069-ee3675b288-btn_5_clicks.png" alt="nine clicks"/>
