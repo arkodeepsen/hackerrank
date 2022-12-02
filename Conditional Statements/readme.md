@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <title> Day 2: Conditional Statements: If-Else | HackerRank </title><meta name="description" id="meta-description" content="Learning about conditional statements."/><meta property="og:title" id="meta-og-title" content="Day 2: Conditional Statements: If-Else | HackerRank"/><meta property="og:image" id="meta-og-image" content="https://hrcdn.net/og/default.jpg"/><meta property="og:description" id="meta-og-description" content="Learning about conditional statements."/><meta property="og:url" id="meta-og-url" content="https://www.hackerrank.com/challenges/js10-if-else/copy-from/299999328"/><meta property="og:site_name" id="meta-og-site" content="HackerRank"/><meta property="og:type" id="meta-og-type" content="website"/><meta property="article:author" content="https://www.facebook.com/hackerrank"/><meta name="twitter:card" id="meta-twitter-card" content="summary"/><meta name="twitter:site" id="meta-twitter-site" content="@hackerrank"/><meta name="twitter:url" id="meta-twitter-url" content="https://www.hackerrank.com/challenges/js10-if-else/copy-from/299999328"/><meta name="twitter:title" id="meta-twitter-title" content="Day 2: Conditional Statements: If-Else | HackerRank"/><meta property="fb:app_id" id="meta-fb-id" content="347499128655783"/><meta name="theme-color" content="hsla(214.29, 15.56%, 26.47%, 1)"/><meta content="authenticity_token" name="csrf-param" id="csrf-param"/><meta content="AIDXbkfGrT8UY4HoWcnOBhitwrimISC8K+A930giPQS9jXb0RgEpYzM6KT2taYChSvmnraZJ7/q8fkumZeWc9Q==" name="csrf-token" id="csrf-token"/><link rel="canonical" href="https://www.hackerrank.com/challenges/js10-if-else/copy-from/299999328"/>
 <script>
   window.BACKEND_ENDPOINT = 'https://www.hackerrank.com/';
@@ -181,3 +183,6 @@
 <script>
   (window.Promise && window.Promise.prototype.finally) || document.write('<script src="https://hrcdn.net/fcore/assets/polyfill-d05a380d50.min.js" type="text\/javascript"><\/script>');
 </script>
+
+</body>
+</html>
