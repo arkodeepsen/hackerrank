@@ -24,11 +24,6 @@ The .js and .css files are in different directories, so use the link tag to prov
     	<script src="js/button.js" type="text/javascript"></script>
     </body>
 </html>
-Submissions
-
-This is a new style of challenge involving Front-End rendering. It may take up to  seconds to see the result of your code, so please be patient after clicking Submit. The Submissions page contains screenshots to help you gauge how well you did.
-
-Ask questions in the Discussions forum and submit any bug reports to support@hackerrank.com. Enjoy!
 
 Explanation
 
