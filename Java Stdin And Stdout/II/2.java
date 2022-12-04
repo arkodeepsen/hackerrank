@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Solution {
 
     public static void main(String[] args) {
-        String s="amogus";
+        String s="amogussussybakaimpostorwaskilledbyobamnasoda vol.1 by arkodeep sen";
         Scanner scan = new Scanner(System.in);
         int i = scan.nextInt();
         double d=scan.nextDouble();
